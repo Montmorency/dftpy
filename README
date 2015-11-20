@@ -1,0 +1,12 @@
+Python library for quick demo of new
+linear system solvers. Built on Empirical
+pseudopotential implementation of Sternheimer-GW.
+
+Currently implemented fortran:
+cg_solve, cbcg_solve, cbcg_solve_multishift, bicg_stabl
+
+To implement:
+bicg_stabl_shift, shift-and-invert 
+preconditioning systems
+
+
